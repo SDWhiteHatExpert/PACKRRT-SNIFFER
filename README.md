@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-  git clone SDWhiteHatExpert/PACKRRT-SNIFFER
+  git clone https://SDWhiteHatExpert/PACKRRT-SNIFFER
    ```
 2. Navigate to the project directory:
    ```bash
