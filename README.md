@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TECHY-SDX/packet-sniffer.git
+  git clone SDWhiteHatExpert/PACKRRT-SNIFFER
    ```
 2. Navigate to the project directory:
    ```bash
